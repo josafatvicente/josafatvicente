@@ -1,31 +1,18 @@
-### Hi there 👋
-
-<!--
-**josafatvicente/josafatvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi 👋 My name is Josa 
 =============================
 
-I am a software engineer with more than 10 years of experience in technology consulting. Specialised in the hospitality sector and third party integration. I have been working with SAP for 14 years and in 2020. During the pandemic and lock-down I decided to start complementing my career with other skills, I started learning python and then I moved on to learn Swift, as an Apple enthusiast it was the logical step I had been planning to take for years. In my spare time I am a freelance developer of apps for iOS systems. I started in June 2020 and after several months learning and working on my first app, I launched Bullets in November.  
 
-* 🌍  I'm based in Barcelona 
-* ✉️  You can contact me at [jvicenpe@gmail.com](mailto:jvicenpe@gmail.com) 
-* 🧠  I'm interested on learning React, Next.js, Vue & Svelte, Node.js, Go, Rust and Swift 
-* 🤝  I'm open to collaborating on anything where I can learn 
-* ⚡  In my free time I build mechanical keyboards and play video games
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on SEAT:CODE as a Team Lead
+- 🌱 I’m currently learning React, Next.js, Vue & Svelte, Node.js, Go, Rust and Swift 
+- 👯 I’m looking to collaborate on anything where I can learn 
+- 🤔 I’m looking for help with translation in Open-source and other initiatives
+- 💬 Ask me about Swift, SAP, Lean Management, Scrum and best practices
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: In my free time I build mechanical keyboards and play video games
+
+My app:
 [![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
 
 ## Skills:
