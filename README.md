@@ -2,8 +2,6 @@ Hi 👋 My name is Josa
 =============================
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on SEAT:CODE as a Team Lead
 - 🌱 I’m currently learning React, Next.js, Vue & Svelte, Node.js, Go, Rust and Swift 
 - 👯 I’m looking to collaborate on anything where I can learn 
